@@ -1,0 +1,8 @@
+{
+  "planets": [
+    {"greeting": "Hello", "planet": "Earth"},
+    {"greeting": "Hello", "planet": "Mars"},
+    {"greeting": "Hello", "planet": "Venus"},
+    {"greeting": "Hello", "planet": "Saturn"}
+  ]
+ }
